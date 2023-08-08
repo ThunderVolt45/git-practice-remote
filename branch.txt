@@ -1,0 +1,5 @@
+git branch
+
+git branch [branch 이름] : [branch 이름] branch를 생성한다.
+
+-M : branch 이름 변경
