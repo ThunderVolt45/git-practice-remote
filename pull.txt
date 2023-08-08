@@ -3,3 +3,9 @@
 git pull [원격 저장소 주소]
 
 fatal: refusing to merge unrelated histories <-- 이런 에러 나오면 --allow-unrelated-histories 옵션 붙이고
+
+
+git pull 은 기본적으로 fetch + merge 라 볼 수 있다.
+
+git fetch : 원격 저장소에 있는 신규 commit을 가져오는 명령
+git pull : 원격 저장소에 있는 신규 commit을 가져와서 내 브랜치에 merge
