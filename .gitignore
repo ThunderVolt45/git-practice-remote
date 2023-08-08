@@ -1,0 +1,17 @@
+# 여기에 git 가 추적하길 원치 않는 파일 및 폴더를 작성하면
+# git 이 해당 파일 및 폴더를 개무시해준다.
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity 프로젝트용 .gitignore의 일부를 발췌함
+# 보면 알겠지만 [Bb] <- 문자 B를 대소문자 구분을 하지 않겠다는 뜻
+
+*.csproj
+
+# * <- 와일드카드
