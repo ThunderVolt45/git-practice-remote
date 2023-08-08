@@ -1,0 +1,3 @@
+과거로 모든 걸 되돌리는 git reset --hard 커밋ID <- 협업시 사용 금지
+reset이지만 변동사항을 지우지 않고 스테이징하는 git reset --soft 커밋ID
+reset이지만 변동사항을 지우지 않고 unstage하는 git reset --mixed 커밋ID
