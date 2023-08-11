@@ -1,4 +1,4 @@
-git branch
+새 branch를 만드는 명령어 : git branch
 
 git branch [branch 이름] : [branch 이름] branch를 생성한다.
 
