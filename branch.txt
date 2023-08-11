@@ -1,4 +1,4 @@
-git branch
+(여기에 conflict 추가)
 
 git branch [branch 이름] : [branch 이름] branch를 생성한다.
 
