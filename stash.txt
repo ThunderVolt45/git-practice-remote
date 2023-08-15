@@ -14,3 +14,8 @@ staging 된 것이던 안 된 것이던 추적 중인 파일은 모두 보관할
 
 git stash pop을 통해 치웠던 코드를 (마지막으로 stash한 순서대로) 다시 불러올 수 있다.
 아니면 git stash pop '여기에 메모 입력' <- 이렇게 원하는 stash를 선택할 수도 있고
+
+
+stash를 제거하는 것도 가능하다.
+git stash drop [번호] : 원하는 stash 1개 삭제
+git stash clear : 모든 stash 삭제
